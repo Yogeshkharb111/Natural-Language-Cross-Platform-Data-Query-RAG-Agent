@@ -1,0 +1,34 @@
+.text-response {
+  width: 100%;
+  text-align: left;
+}
+
+.text-response-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+  color: #374151;
+}
+
+.text-response-header h3 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.text-content {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.text-content pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  font-family: inherit;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #374151;
+  margin: 0;
+}

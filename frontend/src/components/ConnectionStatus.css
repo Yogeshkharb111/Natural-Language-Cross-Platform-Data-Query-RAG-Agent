@@ -1,0 +1,46 @@
+.connection-status {
+  padding: 8px 0;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.status-content {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.status-connected {
+  background-color: #f0fdf4;
+  color: #059669;
+  border-bottom: 1px solid #bbf7d0;
+}
+
+.status-disconnected {
+  background-color: #fef2f2;
+  color: #dc2626;
+  border-bottom: 1px solid #fecaca;
+}
+
+.status-checking {
+  background-color: #fefce8;
+  color: #ca8a04;
+  border-bottom: 1px solid #fde68a;
+}
+
+.status-help {
+  margin-left: auto;
+  font-size: 12px;
+  opacity: 0.8;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spinner {
+  animation: spin 1s linear infinite;
+}

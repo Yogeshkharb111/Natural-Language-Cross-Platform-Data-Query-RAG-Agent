@@ -1,0 +1,60 @@
+.app {
+  min-height: 100vh;
+  background: #f8fafc;
+}
+
+.main-content {
+  padding: 0;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.hero-section {
+  text-align: center;
+  padding: 40px 0 32px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  margin: 0 -24px 32px;
+  color: white;
+}
+
+.hero-title {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 12px;
+  letter-spacing: -0.025em;
+}
+
+.hero-subtitle {
+  font-size: 18px;
+  opacity: 0.9;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.tab-content {
+  margin-top: 24px;
+}
+
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 28px;
+  }
+
+  .hero-subtitle {
+    font-size: 16px;
+  }
+
+  .container {
+    padding: 0 16px;
+  }
+
+  .hero-section {
+    margin: 0 -16px 24px;
+    padding: 32px 16px;
+  }
+}
