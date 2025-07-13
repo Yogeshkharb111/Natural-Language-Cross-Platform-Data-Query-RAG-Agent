@@ -46,15 +46,13 @@ A full-stack application that enables business users to query multiple data sour
 ## 📸 Screenshots
 
 ### 🖥️ Home Page  
+ 
 Here’s what the application looks like:  
 
-![Home Page](<img width="1920" height="888" alt="Screenshot (1309)" src="https://github.com/user-attachments/assets/878c443f-056f-458f-b2e6-7169500993c6" />
-)
-![Home Page](<img width="1920" height="874" alt="Screenshot (1310)" src="https://github.com/user-attachments/assets/b4d9178d-3830-49ad-a6f8-0476a401b1dd" />
-)
-![Home Page](<img width="1920" height="881" alt="Screenshot (1311)" src="https://github.com/user-attachments/assets/313047ea-a519-4316-9f90-04597ddcf956" />
+![Home Page 1](https://github.com/user-attachments/assets/878c443f-056f-458f-b2e6-7169500993c6)  
+![Home Page 2](https://github.com/user-attachments/assets/b4d9178d-3830-49ad-a6f8-0476a401b1dd)  
+![Home Page 3](https://github.com/user-attachments/assets/313047ea-a519-4316-9f90-04597ddcf956)  
 
-)
 
 
 ---
@@ -168,7 +166,6 @@ Try these natural language queries:
 
 ## 📁 Project Structure
 
-\`\`\`
 ├── backend/
 │   ├── main.py              # FastAPI application
 │   ├── langchain_agent.py   # LangChain AI agent
@@ -186,7 +183,7 @@ Try these natural language queries:
 │   └── App.jsx             # Main application
 ├── package.json            # Node.js dependencies
 └── README.md
-\`\`\`
+
 
 ## 🔌 API Endpoints
 
