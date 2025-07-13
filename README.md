@@ -57,11 +57,11 @@ Here’s what the application looks like:
 
 ---
 
-## 🎥 Demo Video
+# 🎥 Demo Video
 
 Watch a quick demo of WealthQuery AI in action:  
 
-[![WealthQuery Demo](assets/demo_thumbnail.png)](https://www.youtube.com/watch?v=your_video_id)  
+# [![WealthQuery Demo](assets/demo_thumbnail.png)](https://www.youtube.com/watch?v=your_video_id)  
 
 Click the thumbnail above to watch on YouTube.
 
@@ -166,6 +166,7 @@ Try these natural language queries:
 
 ## 📁 Project Structure
 
+```text
 ├── backend/
 │   ├── main.py              # FastAPI application
 │   ├── langchain_agent.py   # LangChain AI agent
@@ -179,10 +180,11 @@ Try these natural language queries:
 │   └── .env                 # Environment variables
 ├── src/
 │   ├── components/          # React components
-│   ├── services/           # API services
-│   └── App.jsx             # Main application
-├── package.json            # Node.js dependencies
+│   ├── services/            # API services
+│   └── App.jsx              # Main application
+├── package.json             # Node.js dependencies
 └── README.md
+
 
 
 ## 🔌 API Endpoints
