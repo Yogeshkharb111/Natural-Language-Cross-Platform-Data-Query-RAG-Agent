@@ -1,13 +1,53 @@
-# WealthQuery AI - Natural Language Cross-Platform Data Query RAG Agent
+# 💸 WealthQuery AI  
+_Natural Language Cross-Platform Data Query RAG Agent_  
 
-A full-stack application that allows business users to query multiple data sources using plain English and get responses in text, tables, and graphs.
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)](https://fastapi.tiangolo.com/)  
+[![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)](https://reactjs.org/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)](https://www.mongodb.com/)  
+[![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)](https://www.mysql.com/)  
+[![OpenAI](https://img.shields.io/badge/OpenAI-LLM-blueviolet?logo=openai)](https://platform.openai.com/)  
 
-## 🏗️ Architecture
+A full-stack application that enables business users to query multiple data sources using plain English and receive responses in **text**, **tables**, and **graphs**.  
 
-- **Frontend**: React + Vite
-- **Backend**: FastAPI + LangChain
-- **Databases**: MongoDB (client profiles) + MySQL (transactions)
-- **AI**: OpenAI GPT for natural language processing
+---
+
+## 📖 Table of Contents
+
+- [🏗️ Architecture](#️architecture)
+- [🚀 Quick Start](#-quick-start)
+  - [Backend Setup](#backend-setup)
+  - [Frontend Setup](#frontend-setup)
+- [📊 Sample Queries](#-sample-queries)
+- [🔧 Features](#-features)
+- [📁 Project Structure](#-project-structure)
+- [🔌 API Endpoints](#-api-endpoints)
+- [🛠️ Development](#️development)
+  - [Adding New Queries](#adding-new-queries)
+  - [Extending Response Types](#extending-response-types)
+- [🔒 Security Notes](#-security-notes)
+- [📈 Scaling Considerations](#-scaling-considerations)
+
+---
+
+## 🏗️ Architecture  
+
+- **Frontend**: React + Vite  
+- **Backend**: FastAPI + LangChain  
+- **Databases**: 
+  - MongoDB (client profiles)  
+  - MySQL (transactions)  
+- **AI**: OpenAI GPT for natural language processing  
+
+---
+
+## 🚀 Quick Start  
+
+### 🖥 Backend Setup  
+
+1. Navigate to the backend directory:  
+   ```bash
+   cd backend
+
 
 ## 🚀 Quick Start
 
