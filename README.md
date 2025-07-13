@@ -40,6 +40,41 @@ A full-stack application that enables business users to query multiple data sour
 
 ---
 
+
+---
+
+## 📸 Screenshots
+
+### 🖥️ Home Page  
+Here’s what the application looks like:  
+
+![Home Page](<img width="1920" height="888" alt="Screenshot (1309)" src="https://github.com/user-attachments/assets/878c443f-056f-458f-b2e6-7169500993c6" />
+)
+![Home Page](<img width="1920" height="874" alt="Screenshot (1310)" src="https://github.com/user-attachments/assets/b4d9178d-3830-49ad-a6f8-0476a401b1dd" />
+)
+![Home Page](<img width="1920" height="881" alt="Screenshot (1311)" src="https://github.com/user-attachments/assets/313047ea-a519-4316-9f90-04597ddcf956" />
+
+)
+
+
+---
+
+## 🎥 Demo Video
+
+Watch a quick demo of WealthQuery AI in action:  
+
+[![WealthQuery Demo](assets/demo_thumbnail.png)](https://www.youtube.com/watch?v=your_video_id)  
+
+Click the thumbnail above to watch on YouTube.
+
+---
+
+## 📂 Assets Folder
+
+📁 Make sure to put your screenshots and video thumbnail in an **`assets/` folder** in the repo:  
+
+
+
 ## 🚀 Quick Start  
 
 ### 🖥 Backend Setup  
