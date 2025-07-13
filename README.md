@@ -59,9 +59,8 @@ Here’s what the application looks like:
 
 # 🎥 Demo Video
 
-Watch a quick demo of WealthQuery AI in action:  
+[![WealthQuery Demo](https://drive.google.com/thumbnail?id=1CIY2orbcYA3d7wnP8D7EHPUlbvlqnoiQ)](https://drive.google.com/file/d/1CIY2orbcYA3d7wnP8D7EHPUlbvlqnoiQ/view?usp=drive_link)
 
-# [![WealthQuery Demo](https://drive.google.com/file/d/1CIY2orbcYA3d7wnP8D7EHPUlbvlqnoiQ/view?usp=drive_link)  
 
 Click the thumbnail above to watch on YouTube.
 
